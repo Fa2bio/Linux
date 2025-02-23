@@ -5,6 +5,11 @@
 sudo pacman -S make
 ```
 
+## Install Base-Devel
+```xml
+pamac install base-devel
+```
+
 ### Install Git
 ```xml
 sudo pacman -S git go
